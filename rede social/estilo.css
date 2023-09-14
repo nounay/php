@@ -1,0 +1,70 @@
+.foto{
+    width: 180px;
+    height: 200px;
+    border: 1px;
+    border-radius: 100%;
+}
+.painel{
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    box-shadow: 2px 2px 15px black;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: rgb(255, 255, 255);
+}
+.le{
+    color: rgba(39, 79, 138, 0.493);
+}
+body{
+    background-color: rgba(219, 233, 247, 0.87);
+}
+.Postagem{
+    border-radius: 5px;
+    background-color: aliceblue;
+
+}
+.enviar{
+    background-color: rgb(201, 228, 243);
+   height: 20px;
+   width: 50px;
+    color:rgb(0, 0, 0);
+    border: 1px solid rgba(0, 0, 0, 0.356);
+    border-radius: 5px;
+
+
+}
+
+.enviar:hover{
+    background-color: rgb(122, 173, 197);
+}
+.botao{
+    background-color: rgba(201, 228, 243, 0.938);
+    height: 20px;
+    width: 220px;
+     color:rgb(0, 0, 0);
+     border: 1px solid rgba(0, 0, 0, 0.356);
+     border-radius: 5px;
+     margin: 10px;
+     display: inline-block;
+     text-decoration: none;
+     color: black;
+}
+.botao:hover{
+    background-color: rgb(122, 173, 197);
+
+}
+.card{
+    background-color: rgb(242, 248, 246);
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 15px;
+    text-align: left;
+    box-shadow: 2px 2px 2px black;
+
+}
+.card:hover{
+width: 95%;
+height: 105px;
+}
